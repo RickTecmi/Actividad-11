@@ -96,7 +96,7 @@
     </main>
 
     <footer>
-        <p>Actividad realizada por: [Tu Nombre o Identificador Aquí]</p>
+        <p>Actividad realizada por: [Ricardo Gutiérrez]</p>
         {{-- Puedes añadir más información si lo deseas --}}
         <p>&copy; {{ date('Y') }} - Todos los derechos reservados.</p>
     </footer>
